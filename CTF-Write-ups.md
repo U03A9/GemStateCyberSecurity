@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: "CTF Write-ups"
 ---
 
@@ -7,5 +7,5 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 This is where all the stuff would be
 
-###### Gem State Cyber, LLC | Eastern Idaho | Justin Garcia
-###### [CTF Write-ups](./CTF-Write-ups.html) | [Learning Resources](./another-page.html) | [Peregrine](./another-page.html) | [PowerShell Scripts](./another-page.html) | [Conference Archives](./another-page.html)
+#### Gem State Cyber, LLC | Eastern Idaho | Justin Garcia
+

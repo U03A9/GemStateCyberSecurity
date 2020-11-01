@@ -1,5 +1,11 @@
-title: Gem State Cyber 
+title: Gem State Cyber
 show_downloads: false
 google_analytics:
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 gem "github-pages", group: :jekyll_plugins
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets

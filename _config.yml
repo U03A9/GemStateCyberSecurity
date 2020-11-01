@@ -1,8 +1,6 @@
 title: Gem State Cyber
 show_downloads: false
 
-gem "github-pages", group: :jekyll_plugins
-
 plugins:
   - jekyll-include-cache
   - jekyll-gist

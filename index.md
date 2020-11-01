@@ -4,7 +4,7 @@ layout: default
 
 # Gem State Cyber
 
-[CTF Write-up Posts](./another-page.html) | [Learning Resources](./another-page.html) | [Peregrine](./another-page.html) | [PowerShell Scripts](./another-page.html) | [Conference Archives](./another-page.html)
+[CTF Write-ups](./another-page.html) | [Learning Resources](./another-page.html) | [Peregrine](./another-page.html) | [PowerShell Scripts](./another-page.html) | [Conference Archives](./another-page.html)
 
 Not quite ready. Expect additional content and links over time.
 

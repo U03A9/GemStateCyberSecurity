@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# [CTF Write-ups](./CTF-Write-ups.html) | [Learning Resources](./another-page.html) | [Peregrine](./another-page.html) | [PowerShell Scripts](./another-page.html) | [Conference Archives](./another-page.html)
+## [CTF Write-ups](./CTF-Write-ups.html) | [Learning Resources](./another-page.html) | [Peregrine](./another-page.html) | [PowerShell Scripts](./another-page.html) | [Conference Archives](./another-page.html)
 
 Not quite ready. Expect additional content and links over time.
 

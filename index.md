@@ -4,7 +4,10 @@ author_profile: true
 title: "Home"
 ---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Markdown Test : Header 1
+## Markdown Test : Header 2
+### Markdown Test : Header 3
+#### Markdown Test : Header 4
 
 This is where all the stuff would be
 

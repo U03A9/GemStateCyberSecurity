@@ -3,6 +3,3 @@ show_downloads: false
 google_analytics:
 theme: minimal-mistakes-jekyll
 plugins: jekyll-include-cache
-
-
-gem "github-pages", group: :jekyll_plugins

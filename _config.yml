@@ -1,6 +1,6 @@
 title: Gem State Cyber
 show_downloads: false
-theme: jekyll-theme-hacker
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 
 plugins:
   - jekyll-include-cache

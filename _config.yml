@@ -1,4 +1,4 @@
 title: Gem State Cyber 🛡
 plugins: jekyll-include-cache
 gem "github-pages", group: :jekyll_plugins
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"

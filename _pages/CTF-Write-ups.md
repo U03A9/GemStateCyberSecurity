@@ -10,5 +10,3 @@ permalink: /CTF-Write-ups/
 #### Markdown Test : Header 4
 
 This is where all the stuff would be
-
-###### Gem State Cyber, LLC | Eastern Idaho | Justin Garcia

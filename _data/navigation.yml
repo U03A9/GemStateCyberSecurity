@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "CTF Write-Ups"
-    url: /CTF-Write-ups/
+    url: /ctf-write-ups/
   - title: "Another-Page"
     url: /another-page/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

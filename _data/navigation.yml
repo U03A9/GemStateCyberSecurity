@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "CTF Write-Ups"
-    url: /pages/CTF-Write-ups.md
+    url: /pages/CTF-Write-ups
   - title: "Another-Page"
-    url: /pages/another-page.md
+    url: /pages/another-page
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "CTF Write-Ups"
+permalink: /CTF-Write-Ups/
 ---
 
 # Markdown Test : Header 1

@@ -1,7 +1,8 @@
 ---
-layout: home
-title: "Home"
-permalink: /
+layout: splash
+author_profile: true
+title: "About"
+permalink: /about/
 ---
 
 # Markdown Test : Header 1

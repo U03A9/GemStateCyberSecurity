@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "CTF Write-Ups"
-    url: https://gemstatecyber.com/assets/pages/CTF-Write-ups.html
+    url: /pages/CTF-Write-ups.html
   - title: "Another-Page"
-    url: https://gemstatecyber.com/pages/another-page.html
+    url: /pages/another-page.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

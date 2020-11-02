@@ -99,7 +99,7 @@ author:
                       I want to make a difference in the lives of everyday people."
   location         : "Greater Idaho Falls, Idaho USA"
   links:
-    - label: "Email: justin@gemstatecyber.com"
+    - label: "justin@gemstatecyber.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:justin@gemstatecyber.com"
     - label: "Website"

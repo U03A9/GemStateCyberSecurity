@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Another Page"
 permalink: /another-page/
 ---

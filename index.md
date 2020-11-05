@@ -4,11 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-# Markdown Test : Header 1
-## Markdown Test : Header 2
-### Markdown Test : Header 3
-#### Markdown Test : Header 4
-##### Markdown Test : Header 5
-###### Markdown Test : Header 6
+## Pardon our mess. this is still a work in progress! Check back soon..
+
 
 This is where all the stuff would be. Update 6:00p
